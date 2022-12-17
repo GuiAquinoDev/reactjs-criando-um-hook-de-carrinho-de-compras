@@ -14,7 +14,7 @@
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2306b656?style=flat-square">
   </a>
   
-  <a href="https://www.linkedin.com/in/rafaeldcmartins/">
+  <a href="https://www.linkedin.com/in/dev-guilherme-aquino/">
     <img alt="Solved by Guilherme Aquino" src="https://img.shields.io/badge/solved%20by-Guilherme%20Aquino-%2306b656?style=flat-square">
   </a>
 </p>
