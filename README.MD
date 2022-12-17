@@ -37,7 +37,7 @@ Nesse desafio o principal objetivo é criar um hook de carrinho de compras. A a
 - Entre outros.
 &#xa0;
 
-## Tecnologias
+## 💻 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -80,7 +80,7 @@ Se você deseja contribuir com o projeto, basta fazer um fork do repositório, c
 
 &#xa0;
 
-## Licença
+## ✔️ Licença
 
 Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
