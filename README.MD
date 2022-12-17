@@ -36,6 +36,7 @@ Nesse desafio o principal objetivo é criar um hook de carrinho de compras. A a
 - Validação de estoque;
 - Exibição de mensagens de erro;
 - Entre outros.
+
   &#xa0;
 
 ## 💻 Tecnologias
