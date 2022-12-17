@@ -19,6 +19,7 @@
   </a>
 </p>
 
+&#xa0;
 
 ## :rocket: Sobre o projeto
 
@@ -35,7 +36,7 @@ Nesse desafio o principal objetivo é criar um hook de carrinho de compras. A a
 - Validação de estoque;
 - Exibição de mensagens de erro;
 - Entre outros.
-&#xa0;
+  &#xa0;
 
 ## 💻 Tecnologias
 
@@ -58,7 +59,7 @@ Antes de começar, você precisa ter o [Git](https://git-scm.com) e o [Node](htt
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/thiilins/refactoring-classes-ts
+$ git clone https://github.com/guiaquinodev/refactoring-classes-ts
 
 # Entre na pasta
 $ cd refactoring-classes-ts
