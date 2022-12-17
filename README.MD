@@ -59,7 +59,8 @@ Antes de começar, você precisa ter o [Git](https://git-scm.com) e o [Node](htt
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/guiaquinodev/refactoring-classes-ts
+$ git clone https://github.com/guiaquinodev/reactjs-criando-um-hook-de-carrinho-de-compras
+
 
 # Entre na pasta
 $ cd refactoring-classes-ts
