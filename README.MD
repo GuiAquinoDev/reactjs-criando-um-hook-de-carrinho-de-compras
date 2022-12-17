@@ -26,6 +26,7 @@
  <p align="center">
  <img src="./.github/challenge.gif" alt="Criando um Hook de Carrinho" />
  </p>
+ 
 
 Nesse desafio o principal objetivo é criar um hook de carrinho de compras. A aplicação tem duas páginas, um componente e um hook para implementar as funcionalidades pedidas nesse desafio:
 
